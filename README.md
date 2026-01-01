@@ -68,13 +68,13 @@ Je combine la rigueur universitaire avec une soif d'apprendre par la pratique.
 
 ### 🛠️ Ma Boîte à Outils
 
-| Ce que je maîtrise | Ce que j'utilise au quotidien |
+| Domaine | Ce que je maîtrise / J'utilise |
 | :--- | :--- |
-| **Automation** | **n8n** (Expertise avancée), **Make**, Webhooks |
-| **IA & Data** | **RAG**, **LangChain**, **Supabase Vector**, **Prompt Engineering** |
-| **Code** | **Python** (Scripting & API), **Javascript/React**, **SQL** |
-| **Outils** | VS Code, Git, Docker (Bases) |
-
+| **Automation** | **Make.com** (Avancé), **Webhooks** (Intégration API) |
+| **IA & GenAI** | **Prompt Engineering** ( Avancé), **RAG Concepts**,**finetuning** , **Vertex AI**, **OpenAI API** |
+| **Code** | **Python** (Scripting pour l'IA & APIs), **C++** (Bases universitaires), **SQL** (Base universitaires/Supabase) |
+| **Outils Dev** | **VS Code**, **Git/GitHub** |
+| **En Apprentissage** | Python Avancé, n8n (Transition depuis Make prévue), Docker |
 ---
 
 ### 📫 Travaillons ensemble !
