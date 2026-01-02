@@ -32,7 +32,7 @@ J'aime construire des outils qui résolvent de vrais problèmes. Voici mes réal
 
 #### 🤖 [Agent Prompt RAG] - Générateur de Prompts Sécurisé
 *Un agent intelligent qui m'aide à écrire de meilleurs prompts.*
-* **Mon approche :** J'ai codé manuellement les 20% critiques (la logique de validation et de sécurité) et supervisé l'IA pour générer les 80% restants.
+* **Mon approche :** J'ai codé manuellement les 20% critiques (la logique de validation et de sécurité) et supervisé l'IA pour générer les 80% restants en lui détaillant toutes les etapes de création et en utilisant des technique de context engerring .
 * **Architecture :** Pipeline en 4 étapes (Comprendre -> Chercher -> Construire -> Valider) connecté à une base de connaissances technique (ArXiv, Docs).
 * **Stack :** Python, ChromaDB, LangChain, Validation JSON stricte.
 
@@ -44,7 +44,7 @@ J'aime construire des outils qui résolvent de vrais problèmes. Voici mes réal
 
 #### ✂️ [Auto-Clipper] - Workflow Hybride
 *Automatisation de la découpe vidéo.*
-* **Le setup :** Un scénario **Make** (configuré manuellement de A à Z) qui orchestre un script Python de découpe (FFmpeg).
+* **Le setup :** Un scénario **Make** (configuré manuellement par moi meme  de A à Z) qui orchestre un script Python de découpe (FFmpeg).
 * **Résultat :** Transformation automatique de vidéos longues en clips courts avec sous-titres et posts réseaux sociaux.
 
 ---
