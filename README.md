@@ -13,26 +13,26 @@ Je travaille principalement sur :
 
 ## Projets principaux
 
-### Agent-prompt https://github.com/nouredine-diallo/Agent-prompt
+### [Agent-prompt] (https://github.com/nouredine-diallo/Agent-prompt)
 Pipeline RAG avec :
 - ingestion et chunking de documents,
 - retrieval ChromaDB,
 - validation de réponses LLM,
 - évaluation quantitative (Recall@5 = 0.40 , MRR=0.32, Ragas)mesurés sur un gold set de 20 requêtes via Ragas.
 
-### trend-post-craft *(en cours)* https://github.com/nouredine-diallo/trend-post-craft
+### [trend-post-craft] *(en cours)* (https://github.com/nouredine-diallo/trend-post-craft)
 Pipeline de traitement de données avec :
 - Polars,
   Validation stricte des schémas de sortie via Pydantic.
 - validation structurée des sorties LLM,
 - traçabilité des transformations.
 
-### Automat_content  https://github.com/nouredine-diallo/Automat_content
+### [Automat_content]  (https://github.com/nouredine-diallo/Automat_content)
 Workflow d’automatisation  :
 Make.com → Python → FFMPEG
 Transformation de vidéos longues en clips courts avec sous-titres automatiques.
 
-### snake  https://github.com/nouredine-diallo/snake
+### [snake]  (https://github.com/nouredine-diallo/snake)
 Projet C++/SDL2 réalisé en L2 :
 architecture modulaire, gestion de plusieurs modes de jeu et organisation orientée objet.
 
