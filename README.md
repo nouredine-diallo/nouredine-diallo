@@ -1,70 +1,60 @@
-# 👋 Hello, Nouredine Diallo 
+# Nouredine Diallo
 
-###  Étudiant en L2 & Builder | Passionné IA et d'Automatisation 
+L2 Informatique — Université Lyon 1
 
-* **Maîtrise :** Architecture RAG, Automatisation Workflow (Make), Backend Python (FastAPI), Comprehension des LLM 
-* **Fondamentaux :** C++ (gestion mémoire), Algorithmique, SQL.
-* **Mindset :** "Product-First". Mes outils ont pour but d'etre tester par des utilisateurs réels.
+Je travaille principalement sur :
+- les pipelines RAG,
+- les pipelines de données Python.
+- l’évaluation de systèmes LLM,
+- les workflows d’automatisation IA,
 
-### Transparence sur l'IA 
- Voici ma charte éthique :
-* **Règle du 70/30 :** Je conçois 100% de l'architecture et de la logique métier (sécurité, flux de données, cerveau du projet ). L'IA est utilisée pour l'esthétique UI (Streamlit), le boilerplate et les scripts utilitaires simples.
-* **Audit Permanent :** Aucun code généré n'est poussé sans une compréhension ligne par ligne. **Je sais expliquer chaque fonction de mes dépôts.**
-* **Hybrid Learning :** J'apprends à coder les bases à l'Université (C++) pour être capable de débugger l'IA quand elle se trompe.
-
-### Projets Prioritaires
-
-| Projet | Ce que j'ai codé manuellement | Rôle de l'IA | Statut |
-| :--- | :--- | :--- | :--- |
-| **[SparkFlow_LAND](https://github.com/nouredine-diallo/sparkflow-spec-detail)** | Logique RAG, Agents anti-hallucination, Prompt Engineering complexe. | UI React, Intégration API de base. | **avec un influenceur qui l'a utilisé regulierement ** |
-| **[Agent Prompt RAG](https://github.com/nouredine-diallo/Agent-prompt)** | Pipeline d'ingestion (ChromaDB), Ingestion ArXiv, Logique de validation JSON. | Streamlit (Design), Documentation. | **Finalisé** |
-| **[Snake C++](https://github.com/nouredine-diallo/snake)** | 100% Manuel (Pointeurs, Gestion mémoire, Logique de jeu). | Aucun (Rigueur académique). | **Scolaire** |
-
-
-### Mon Parcours : Entre Théorie et Pratique
-
-#### ** Université Lyon 1 (Fondations)**
-* **Bas Niveau :** C++ (Architecture logicielle, structures de données).
-* **Système :** Architecture des ordinateurs, SQL ( base de données ) , web app.
-* **Projet :** Moteur de rendu 3D simple via maillage (C++).
-
-#### **Certifications & Auto-Formation (Spécialisation)**
-* **DeepLearning.ai :** *Building and Evaluating Advanced RAG* (Triade TruLens).
-* **Google Skills :** *Prompt Design in Vertex AI*.
-* **Auto-Formation Certifiante :**  *J'ai mis en place mon propre programme de formation assisté par IA, validant chaque compétence par des labs pratiques "Go/No-Go". Points maitriser : *
-                                    *Évaluation : Triade RAG ,Sécurité : Défense contre Injection Indirecte, Stratégies Hiérarchiques : Sentence Window vs Auto-Merging,*
-                                    *Post-Recherche : Re-Ranking avec Cross-Encoder ,Pré-Recherche : Agents Router , Fine-Tuning : Embeddings , Audit : Évaluation RAGAS*
-
-#### Ma Boîte à Outils , maitrise continue :  
-* **Automation :** Make.com (Expertise), Webhooks, Intégration API.
-* **IA Stack :** LangChain, ChromaDB, OpenAI/Vertex AI, Prompt Engineering.
-* **Code :** Python (Scripting & API), C++ (Académique), SQL.
-* **En Apprentissage :** Docker, n8n (Transition de Make), Python Asynchrone.
-
-### Mes Limites Actuelles 
-* Je ne suis pas encore expert en **DevOps** (Docker/Kubernetes en cours d'apprentissage).
-* Ma maîtrise de **React** est orientée "front-end simple" ;
-* Je découvre encore l'optimisation poussée des **bases de données vectorielles** à grande échelle( en apprentissage continu)
 
 ---
 
-### 📫 Travaillons ensemble !
+## Projets principaux
 
-Je suis un étudiant curieux, travailleur et passionné  et en constante apprentissage .
-n'hesitez pas a explorer mes projets ou de venir à moi pour plus d'informations 
-* 📧 nourredinediallo@gmail.com
+### Agent-prompt https://github.com/nouredine-diallo/Agent-prompt
+Pipeline RAG avec :
+- ingestion et chunking de documents,
+- retrieval ChromaDB,
+- validation de réponses LLM,
+- évaluation quantitative (Recall@5 = 0.40 , MRR=0.32, Ragas)mesurés sur un gold set de 20 requêtes via Ragas.
 
-<!--
-**nouredine-diallo/nouredine-diallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### trend-post-craft *(en cours)* https://github.com/nouredine-diallo/trend-post-craft
+Pipeline de traitement de données avec :
+- Polars,
+  Validation stricte des schémas de sortie via Pydantic.
+- validation structurée des sorties LLM,
+- traçabilité des transformations.
 
-Here are some ideas to get you started:
+### Automat_content  https://github.com/nouredine-diallo/Automat_content
+Workflow d’automatisation  :
+Make.com → Python → FFMPEG
+Transformation de vidéos longues en clips courts avec sous-titres automatiques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### snake  https://github.com/nouredine-diallo/snake
+Projet C++/SDL2 réalisé en L2 :
+architecture modulaire, gestion de plusieurs modes de jeu et organisation orientée objet.
+
+---
+
+## Technologies utilisées
+
+Python · C++ · FastAPI · ChromaDB ·Langchain . Streamlit · Polars · Pydantic · SDL2 · Make.com 
+
+---
+
+## Formation
+
+- L2 Informatique Générale — Université Lyon 1
+- DeepLearning.ai — Advanced RAG
+- Google Skill Badge — Vertex AI Search
+
+---
+
+## Objectif actuel
+
+Continuer à améliorer :
+- l’évaluation des systèmes RAG,
+- la qualité des pipelines IA,
+- et les workflows d’automatisation fiables et mesurables.
