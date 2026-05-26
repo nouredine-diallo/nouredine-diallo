@@ -49,6 +49,8 @@ Python · C++ · FastAPI · ChromaDB ·Langchain . Streamlit · Polars · Pydant
 - L2 Informatique Générale — Université Lyon 1
 - DeepLearning.ai — Advanced RAG
 - Google Skill Badge — Vertex AI Search
+- Python (Certifié HackerRank) [https://www.hackerrank.com/certificates/66beb1448919]
+- SQL (Certifié HackerRank) [https://www.hackerrank.com/certificates/b38742ec13fb]
 
 ---
 
