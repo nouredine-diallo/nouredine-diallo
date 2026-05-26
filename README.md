@@ -13,26 +13,26 @@ Je travaille principalement sur :
 
 ## Projets principaux
 
-### [Agent-prompt] (https://github.com/nouredine-diallo/Agent-prompt)
+### [Agent-prompt](https://github.com/nouredine-diallo/Agent-prompt)
 Pipeline RAG avec :
 - ingestion et chunking de documents,
 - retrieval ChromaDB,
 - validation de réponses LLM,
 - évaluation quantitative (Recall@5 = 0.400 , MRR=0.327, Ragas)mesurés sur un gold set de 20 requêtes via Ragas nous donnes des pistes sur les améliorations.
 
-### [trend-post-craft] *(en cours)* (https://github.com/nouredine-diallo/trend-post-craft)
+### [trend-post-craft](https://github.com/nouredine-diallo/trend-post-craft)(*en cours : la logique principale est faite pour l instant *)
 Pipeline de traitement de données avec :
 - Polars,
   Validation stricte des schémas de sortie via Pydantic.
 - validation structurée des sorties LLM,
 - traçabilité des transformations.
 
-### [Automat_content]  (https://github.com/nouredine-diallo/Automat_content)
+### [Automat_content](https://github.com/nouredine-diallo/Automat_content)
 Workflow d’automatisation  :
 Make.com → Python → FFMPEG
 Transformation de vidéos longues en clips courts avec sous-titres automatiques.
 
-### [snake]  (https://github.com/nouredine-diallo/snake)
+### [snake](https://github.com/nouredine-diallo/snake)
 Projet C++/SDL2 réalisé en L2 :
 architecture modulaire, gestion de plusieurs modes de jeu et organisation orientée objet.
 
@@ -49,14 +49,11 @@ Python · C++ · FastAPI · ChromaDB ·Langchain . Streamlit · Polars · Pydant
 - L2 Informatique Générale — Université Lyon 1
 - DeepLearning.ai — Advanced RAG
 - Google Skill Badge — Vertex AI Search
-- Python (Certifié HackerRank) [https://www.hackerrank.com/certificates/66beb1448919]
-- SQL (Certifié HackerRank) [https://www.hackerrank.com/certificates/b38742ec13fb]
+- Python [Certifié HackerRank](https://www.hackerrank.com/certificates/66beb1448919)
+- SQL [Certifié HackerRank](https://www.hackerrank.com/certificates/b38742ec13fb)
 
 ---
 
 ## Objectif actuel
 
-Continuer à améliorer :
-- l’évaluation des systèmes RAG,
-- la qualité des pipelines IA,
-- et les workflows d’automatisation fiables et mesurables.
+Je recherche un stage ou une alternance pour mettre mes compétences  au service de vos projets. Mon but est de participer concrètement à l'optimisation de systèmes RAG  ,  à la construction de pipelines de données et à l'automatisation de processus.
