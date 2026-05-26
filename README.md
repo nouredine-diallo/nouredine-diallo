@@ -18,7 +18,7 @@ Pipeline RAG avec :
 - ingestion et chunking de documents,
 - retrieval ChromaDB,
 - validation de réponses LLM,
-- évaluation quantitative (Recall@5 = 0.30 , MRR=0.30, Ragas)mesurés sur un gold set de 20 requêtes via Ragas nous donnes des pistes sur les améliorations.
+- évaluation quantitative (Recall@5 = 0.400 , MRR=0.327, Ragas)mesurés sur un gold set de 20 requêtes via Ragas nous donnes des pistes sur les améliorations.
 
 ### [trend-post-craft] *(en cours)* (https://github.com/nouredine-diallo/trend-post-craft)
 Pipeline de traitement de données avec :
