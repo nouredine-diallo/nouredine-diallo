@@ -5,7 +5,7 @@ L2 Informatique — Université Lyon 1
 Je travaille principalement sur :
 - les pipelines RAG,
 - les pipelines de données Python.
-- l’évaluation de systèmes LLM,
+- l’éval de  LLM,
 - les workflows d’automatisation IA,
 
 
@@ -18,7 +18,7 @@ Pipeline RAG avec :
 - ingestion et chunking de documents,
 - retrieval ChromaDB,
 - validation de réponses LLM,
-- évaluation quantitative (Recall@5 = 0.400 , MRR=0.327, Ragas)mesurés sur un gold set de 20 requêtes via Ragas nous donnes des pistes sur les améliorations.
+- évaluation quantitative (Recall@5 = 0.400 , MRR=0.327, Ragas)mesurés sur un gold set de 20 requêtes et avec des pistes sur les améliorations.
 
 ### [trend-post-craft](https://github.com/nouredine-diallo/trend-post-craft)(*en cours : la logique principale est faite pour l instant *)
 Pipeline de traitement de données avec :
