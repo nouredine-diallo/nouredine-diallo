@@ -13,7 +13,7 @@ Je travaille principalement sur :
 
 ## Projets principaux
 
-### [Agent-prompt](https://github.com/nouredine-diallo/Agent-prompt)
+### [Agent-prompt](https://github.com/nouredine-diallo/Agent-prompt)  Vous pouvez tester directement sur hugging face 
 Pipeline RAG avec :
 - ingestion et chunking de documents,
 - retrieval ChromaDB,
